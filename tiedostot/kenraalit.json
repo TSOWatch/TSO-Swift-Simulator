@@ -216,4 +216,11 @@
     "kapasiteetti": 180,
     "yksikkötunniste": "JuanGeneral"
   }
+    {
+    "järjestysnumero": 31,
+    "nimi": "x",
+    "lyhenne": "x",
+    "kapasiteetti": 200,
+    "yksikkötunniste": "JuanGeneral"
+  }
 ]
