@@ -3951,13 +3951,13 @@
     {
     "nro": 960,
     "ryhmitys": 1,
-    "tunniste": "JuanGeneral",
-    "nimi": " Brohmann the Raider",
+    "tunniste": "BrohmannGeneral",
+    "nimi": "Brohmann the Raider",
     "luokitus": 1,
     "elämäpisteet": 500,
-    "osumatarkkuus": 80,
-    "osumavahinkoMin": 700,
-    "osumavahinkoMax": 800,
+    "osumatarkkuus": 70,
+    "osumavahinkoMin": 1500,
+    "osumavahinkoMax": 3000,
     "hyökkäysjärjestys": 1,
     "taidot": [
       "UnitSkillSplashDamage",
