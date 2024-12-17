@@ -3962,8 +3962,7 @@
     "taidot": [
       "UnitSkillSplashDamage",
       "UnitSkillFirstStrike",
-      "UnitSkillAttackWeakestTarget",
-      "Trait_Anniversary2019General"
+      "UnitSkillAttackWeakestTarget"
     ]
   }
 
