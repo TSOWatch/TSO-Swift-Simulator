@@ -3948,5 +3948,23 @@
       "Trait_Anniversary2019General"
     ]
   }
+    {
+    "nro": 960,
+    "ryhmitys": 1,
+    "tunniste": "JuanGeneral",
+    "nimi": " Brohmann the Raider",
+    "luokitus": 1,
+    "elämäpisteet": 500,
+    "osumatarkkuus": 80,
+    "osumavahinkoMin": 700,
+    "osumavahinkoMax": 800,
+    "hyökkäysjärjestys": 1,
+    "taidot": [
+      "UnitSkillSplashDamage",
+      "UnitSkillFirstStrike",
+      "UnitSkillAttackWeakestTarget",
+      "Trait_Anniversary2019General"
+    ]
+  }
 
 ]
